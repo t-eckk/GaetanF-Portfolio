@@ -1,2 +1,2 @@
-# GaetanF-Portfolio
-aa
+# Teckk's GitHub Portfolio
+##### Quantitative Finance Projects

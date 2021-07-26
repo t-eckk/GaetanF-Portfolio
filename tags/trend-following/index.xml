@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trend Following on Home page</title>
-    <link>https://example.com/tags/trend-following/</link>
+    <link>https://t-eckk.github.io/QF-Portfolio/tags/trend-following/</link>
     <description>Recent content in Trend Following on Home page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/tags/trend-following/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://t-eckk.github.io/QF-Portfolio/tags/trend-following/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>E.T.F.: ETF Trend Following</title>
-      <link>https://example.com/post/etf-trend-following/</link>
+      <link>https://t-eckk.github.io/QF-Portfolio/post/etf-trend-following/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/etf-trend-following/</guid>
+      <guid>https://t-eckk.github.io/QF-Portfolio/post/etf-trend-following/</guid>
       <description>Personal Project &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
 Most trend following hedge funds are known as managed futures funds, or CTAs. These funds leverage the abundance of contracts in futures markets to create diversified portfolios aiming to capture the autocorrelation of returns within assets.
 Link towards Github repository

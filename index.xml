@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantitative Finance &amp; Other Projects on Home page</title>
-    <link>https://example.com/</link>
+    <link>https://t-eckk.github.io/QF-Portfolio/</link>
     <description>Recent content in Quantitative Finance &amp; Other Projects on Home page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://t-eckk.github.io/QF-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Portfolio Stress Testing: A Multifactor Approach</title>
-      <link>https://example.com/post/platinium-stress-test/</link>
+      <link>https://t-eckk.github.io/QF-Portfolio/post/platinium-stress-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/platinium-stress-test/</guid>
+      <guid>https://t-eckk.github.io/QF-Portfolio/post/platinium-stress-test/</guid>
       <description>Professional Project &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
 When interning at Platinium Gestion, I developed an internal tool that would be use to perform portfolio stress testing. This tool was to be simple to use, and simple to understand. It was subject to substitute stress tests done via Bloomberg&amp;rsquo;s PORT function. The tool was developed using Excel and VBA, in line with the softwares in-use within the company.
 Key takeaways  Simple models can have similar performances to black box models Using 80% confidence intervals can lead to more interpretable results when stressing portfolios Appropriate factors are especially important when stress testing multi-asset portfolios  Model The tool used a linear multifactor model to stress portfolios.</description>
@@ -20,10 +20,10 @@ Key takeaways  Simple models can have similar performances to black box models U
     
     <item>
       <title>E.T.F.: ETF Trend Following</title>
-      <link>https://example.com/post/etf-trend-following/</link>
+      <link>https://t-eckk.github.io/QF-Portfolio/post/etf-trend-following/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/etf-trend-following/</guid>
+      <guid>https://t-eckk.github.io/QF-Portfolio/post/etf-trend-following/</guid>
       <description>Personal Project &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
 Most trend following hedge funds are known as managed futures funds, or CTAs. These funds leverage the abundance of contracts in futures markets to create diversified portfolios aiming to capture the autocorrelation of returns within assets.
 Link towards Github repository
